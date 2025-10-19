@@ -191,15 +191,9 @@ Bu proje eğitim amaçlı geliştirilmiştir. Ticari kullanım için lisans gere
 
 ## 👨‍💻 Geliştirici
 
-**Furkan Kurt**
+**Celil Furkan KURT**
 - GitHub: [@furkankurt17](https://github.com/furkankurt17)
 - Proje Linki: [Hastane_Otomasyonu](https://github.com/furkankurt17/Hastane_Otomasyonu)
-
-## 📞 İletişim
-
-Sorularınız veya önerileriniz için:
-- 🐛 [Issue Oluşturun](https://github.com/furkankurt17/Hastane_Otomasyonu/issues)
-- 💬 [Discussions](https://github.com/furkankurt17/Hastane_Otomasyonu/discussions)
 
 ---
 
